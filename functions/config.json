@@ -1,0 +1,15 @@
+{
+  "AWS_ACCOUNT_ID": "972011938646",
+  "REGION": "sa-east-1",
+  "BUCKET": "BUCKET",
+  "MAX_AGE": "10",
+  "DDB_TABLE": "SampleAuthUsers",
+  "IDENTITY_POOL_NAME": "agritechUsers",
+  "DEVELOPER_PROVIDER_NAME": "agritechUsers",
+  "EXTERNAL_NAME": "AgriCompany",
+  "EMAIL_SOURCE": "support@agricompany.tech",
+  "VERIFICATION_PAGE": "https://www.agricompany.tech/login/confirm_email/validate",
+  "RESET_PASS_PAGE": "https://www.agricompany.tech/login/reset_password/validate",
+  "RESET_PAGE": "https://BUCKET.s3.amazonaws.com/resetPassword.html",
+  "IDENTITY_POOL_ID":"sa-east-1:e1a7b20a-baec-4c98-a8ca-e27aa4a909e1"
+}
